@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MahasPaintBrushApp</string>
+    <string name="clearButtonText">Clear all</string>
+    <string name="undoButtonText">Undo</string>
+</resources>
